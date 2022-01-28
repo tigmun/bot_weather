@@ -1,6 +1,4 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-config.py
+/config.py
 
-test.py
+/test.py
